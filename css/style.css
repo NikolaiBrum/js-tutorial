@@ -53,13 +53,17 @@ main > section {
     margin: 20px 0;
 }
 
-.controlBtns {
+.controls label{
     background-color: teal;
     padding: 10px 30px;
     color: whitesmoke;
     cursor: pointer;
     border: none;
     border-radius: 0;
+}
+
+.controls input{
+    opacity: 1;
 }
 
 h3 {
